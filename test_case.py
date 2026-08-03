@@ -1,6 +1,6 @@
 
 
-avg_total=0
+avg_total=1
 for student in students:
     avg_total+=(student["marks"])
 
